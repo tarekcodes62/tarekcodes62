@@ -1,19 +1,24 @@
 <!--- banner --->
 <img src="./banner/github-banner.png" alt="Hello world">
 
-<h1 align="center">Hi 👋, I'm Md Tarek Rahman</h1>
-<h3 align="center">Web Developer</h3>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarekcodes62" alt="tarekcodes62" /></a> </p>
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Tarek Rahman</h1></summary>
+    <!--- typo --->
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Technical+Instructor+@PH;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Bioinformatics" alt="Typing SVG" /></a> -->
+  </ul>
+</div>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+<br/>
 
-- 💬 Ask me about **javascript and react**
-
-- 📫 How to reach me **mdtarekr199@gmail.com**
-
-- ⚡ Fun fact **Coding is fun**
-
+<!--- about --->
+- 👋 Hi, I’m **[@tarekcodes62](https://github.com/tarekcodes62)**
+- 🛠️ I’m currently learning **React and TypesCript**.
+- 💬 Ask me about **(JavasCript, React and TypesCript)**.
+- 📫 Feel free to reach me out **[Email](mdtarekr199@gmail.com)**
 
 
 <br/>
