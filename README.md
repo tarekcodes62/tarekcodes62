@@ -1,3 +1,6 @@
+<!--- banner --->
+<img src="./banner/github-banner.png" alt="Hello world">
+
 <h1 align="center">Hi 👋, I'm Md Tarek Rahman</h1>
 <h3 align="center">Web Developer</h3>
 
