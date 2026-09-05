@@ -38,25 +38,28 @@
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/touhidcodes)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/tarekcodes62)
 
 ### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind,bootstrap)](https://github.com/touhidcodes)
+[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/tarekcodes62)
+
+<!--
 
 ### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,redux,nodejs,express)](https://github.com/touhidcodes)
+[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/touhidcodes)
 
 ### Database & Model:
 [![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/touhidcodes)
+-->
 
 ### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://github.com/touhidcodes)
+[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/tarekcodes62)
 
 ### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/touhidcodes)
+[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/tarekcodes62)
 
 ### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode,postman)](https://github.com/touhidcodes)
+[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/tarekcodes62)
 
 
 <br/>
@@ -66,4 +69,4 @@
 
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
+![Snake Grid](https://github.com/tarekcodes62/contribution-snake/blob/output/grid.svg)
