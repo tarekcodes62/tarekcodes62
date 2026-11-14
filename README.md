@@ -14,10 +14,14 @@
 
 <br/>
 
-<!--- about --->
+  <!--- about --->
 - 👋 Hi, I’m **[@tarekcodes62](https://github.com/tarekcodes62)**
-- 🛠️ I’m currently learning **React and TypesCript**.
-- 💬 Ask me about **(JavasCript, React and TypesCript)**.
+- 🖥️ I’m currently learning **React.js, Next.js, Typescript, Node.js, Express.js, MongoDB**.
+- 🗄️ Using **React.js, Next.js, Typescript** for the fontend.
+- 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
+- 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB)**.
+- 🌐 Explore My Portfolio **[TarekCodes62](https://tarek-rahman.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/1SWUHzC2lg3zMoT4BfUcVX34m8-WWu2E9/view?usp=sharing)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/tarek-rahman1/)**
 - 📫 Feel free to reach me out **[Email](mdtarekr199@gmail.com)**
 
 
@@ -26,12 +30,21 @@
 <!--- socials --->
 ## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
+
 <div>
   <p align="left">
-<a href="https://fb.com/md tarek rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md tarek rahman" height="30" width="40" /></a>
-<a href="https://discord.gg/tarek62😎" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tarek62😎" height="30" width="40" /></a>
-</p>
+    <a href="https://fb.com/md%20tarek%20rahman" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/tarek62" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+    </a>
+    <a href="https://www.linkedin.com/in/tarek-rahman1/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+  </p>
 </div>
+
 <br/>
 
 <!--- technology --->
