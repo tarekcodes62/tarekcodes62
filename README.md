@@ -37,29 +37,45 @@
 <!--- technology --->
 ##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/tarekcodes62)
+### 🌐 Languages
+[![HTML](https://skillicons.dev/icons?i=html)](https://github.com/tarekcodes62)
+[![CSS](https://skillicons.dev/icons?i=css)](https://github.com/tarekcodes62)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://github.com/tarekcodes62)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://github.com/tarekcodes62)
 
-### CSS Frameworks & Libraries:
-[![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/tarekcodes62)
+### 🎨 CSS Frameworks & Libraries
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://github.com/tarekcodes62)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://github.com/tarekcodes62)
+[![DaisyUI](https://img.shields.io/badge/DaisyUI-1AD1A5?style=for-the-badge&logo=daisyui&logoColor=white)](https://github.com/tarekcodes62)
+[![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://github.com/tarekcodes62)
+[![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=for-the-badge)](https://github.com/tarekcodes62)
 
-<!--
+### ⚛️ JavaScript Frameworks & Libraries
+[![React](https://skillicons.dev/icons?i=react)](https://github.com/tarekcodes62)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://github.com/tarekcodes62)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://github.com/tarekcodes62)
+[![Express.js](https://skillicons.dev/icons?i=express)](https://github.com/tarekcodes62)
 
-### JavaScript Frameworks & Libraries:
-[![JavaScript Frameworks & Libraries](https://skillicons.dev/icons?i=react,next,nodejs,express)](https://github.com/touhidcodes)
+### 🗄️ Database & Model
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://github.com/tarekcodes62)
 
-### Database & Model:
-[![Database & Model](https://skillicons.dev/icons?i=mongodb)](https://github.com/touhidcodes)
--->
+### 🔐 Authentication & Backend Technologies
+[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://github.com/tarekcodes62)
+[![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge)](https://github.com/tarekcodes62)
 
-### Deployment Platform:
-[![Deployment Platform](https://skillicons.dev/icons?i=vercel,netlify)](https://github.com/tarekcodes62)
+### 🚀 Deployment Platforms
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://github.com/tarekcodes62)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://github.com/tarekcodes62)
 
-### Design & Graphics:
-[![Design & Graphics](https://skillicons.dev/icons?i=figma)](https://github.com/tarekcodes62)
+### 🎭 Design & Graphics
+[![Figma](https://skillicons.dev/icons?i=figma)](https://github.com/tarekcodes62)
 
-### Tools & Technologies:
-[![Tools & Technologies](https://skillicons.dev/icons?i=windows,git,github,vscode)](https://github.com/tarekcodes62)
+### 🛠️ Tools & Technologies
+[![Windows](https://skillicons.dev/icons?i=windows)](https://github.com/tarekcodes62)
+[![Git](https://skillicons.dev/icons?i=git)](https://github.com/tarekcodes62)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/tarekcodes62)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://github.com/tarekcodes62)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://github.com/tarekcodes62)
 
 
 <br/>
